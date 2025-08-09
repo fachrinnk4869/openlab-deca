@@ -42,6 +42,9 @@ Clone the repo:
 ### Usage
 1. Prepare data   
     download from huggingface data
+    https://huggingface.co/datasets/fachrinnk4869/deca_dataset/resolve/main/FLAME_albedo_from_BFM.npz
+    https://huggingface.co/datasets/fachrinnk4869/deca_dataset/resolve/main/deca_model.tar
+    
 2. run script: 
     ```bash
     python3 main.py
